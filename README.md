@@ -1,5 +1,3 @@
-# Random string generator
-A simple random string generator made with Python(Quantumrandom module).
 <h1 align="center">Random string generator</h1>
 <h2>A simple random string generator made with Python(Quantumrandom module).</h1>
 <h3>What does it do?</h3>
